@@ -21,20 +21,27 @@ To determine the radial distance (receiver range), move the mouse pointer to the
 Repeat the procedure above for each receiver used by the location system.
 
 ## Running PPC and CHC
-### 1)	Set Current Folder in MatLab environment to  D:\...\GeometricModels\PPC&CHC.
+#### 1)	Set Current Folder in MatLab environment to  D:\...\GeometricModels\PPC&CHC.
+
 ![image](https://github.com/aleksmontanha/geometricsmodels/assets/3112499/ee5b63e0-d473-4c53-b7ac-231e622f1e07)
 
-### 2)	At the prompt of MatLab, in Command Window, typewrite CaseGenerator and press ENTER.
+
+#### 2)	At the prompt of MatLab, in Command Window, typewrite CaseGenerator and press ENTER.
+
 **![image](https://github.com/aleksmontanha/geometricsmodels/assets/3112499/55990fc1-5bd2-4000-aabc-a59684e18588)**
 
-### 3)	Typewrite the number of receivers that compose the location system
+#### 3)	Typewrite the number of receivers that compose the location system
+
 ![image](https://github.com/aleksmontanha/geometricsmodels/assets/3112499/a7f68b5c-53a2-441c-8f3c-09350f86e9d7)
 
+
 Press ENTER or OK button
 
-### 4) Select a geometric model PPC, CHC or both.
+#### 4) Select a geometric model PPC, CHC or both.
+
 ![image](https://github.com/aleksmontanha/geometricsmodels/assets/3112499/a558762c-264a-4c22-bfcf-4e901c473eae)
 
+
 Press ENTER or OK button
 
-### 5)	Perform the data entry procedure (described above) and obtain the graphic results.
+#### 5)	Perform the data entry procedure (described above) and obtain the graphic results.
