@@ -45,3 +45,65 @@ Press ENTER or OK button
 Press ENTER or OK button
 
 #### 5)	Perform the data entry procedure (described above) and obtain the graphic results.
+
+## Running PLI
+
+#### 1)	Set Current Folder in MatLab environment to   D:\...\GeometricModels\PLI.
+
+![image](https://github.com/aleksmontanha/geometricsmodels/assets/3112499/266c16ba-4e62-43a2-ab6b-5763964daba8)
+
+#### 2)	At the prompt of MatLab, in Command Window, typewrite CaseGenerator and press ENTER.
+
+![image](https://github.com/aleksmontanha/geometricsmodels/assets/3112499/e6fedb7d-6ed1-4281-b140-7ae57db9ea0d)
+
+#### 3)	Typewrite the number of receivers that compose the location system
+
+![image](https://github.com/aleksmontanha/geometricsmodels/assets/3112499/d4243c9b-0f99-4c2a-be27-8b0500799d77)
+
+
+Press ENTER or OK button
+
+#### 4)	Perform the data entry procedure (described above) and obtain the graphic results.
+
+## Running TLI and MAI
+
+#### 1)	Set Current Folder in MatLab environment (e.g.   D:\...\GeometricModels\TLI&MAI).
+
+![image](https://github.com/aleksmontanha/geometricsmodels/assets/3112499/9ed3f579-c951-4666-abe0-c3c2a606c822)
+
+#### 2)	At the prompt of MatLab, in Command Window, typewrite CaseGenerator and press ENTER.
+
+![image](https://github.com/aleksmontanha/geometricsmodels/assets/3112499/1ec6842c-1397-4bbe-8964-51614e423d44)
+
+#### 3)	Typewrite the number of receivers that compose the location system
+
+![image](https://github.com/aleksmontanha/geometricsmodels/assets/3112499/6ebec4c5-b965-422b-a395-f322f39a9f41)
+
+
+Press ENTER or OK button
+
+#### 4)	Select a geometric model TLI, MAI or both.
+
+![image](https://github.com/aleksmontanha/geometricsmodels/assets/3112499/59568884-c201-4b13-8cde-c6d801b84a70)
+
+
+Press ENTER or OK button
+
+
+#### 5)	Perform the data entry procedure (described above) and obtain the graphic results.
+
+
+
+## Running Real Data Analisys
+
+#### 1)	Set Current Folder in MatLab environment (e.g.   D:\...\GeometricModels\TLI&MAI).
+
+![image](https://github.com/aleksmontanha/geometricsmodels/assets/3112499/1669782f-7d2b-49f1-80d4-b24ec8549419)
+
+
+#### 2)	At the prompt of MatLab, in Command Window, typewrite ResultAnalisys and press ENTER.
+
+![image](https://github.com/aleksmontanha/geometricsmodels/assets/3112499/245d5a91-c174-4e51-b295-5d5361f65cb2)
+
+Each experimental case is presented in a particular graphic window.
+
