@@ -9,3 +9,13 @@ The geometric models “Pole-Polar Centroid” (PPC) and “Convex-Hull Centroid
 
 ## DATA ENTRY PROCEDURE
 The main window of the simulator, for any geometric model, is the data entry interface  
+
+![image](https://github.com/aleksmontanha/geometricsmodels/assets/3112499/ffdc403e-08d2-4ecd-bf82-6c69461f4c77)
+
+The control of the data entry using this interface is done only with the mouse (click-move-click) 
+
+![image](https://github.com/aleksmontanha/geometricsmodels/assets/3112499/aa486e7d-47e0-412a-9347-792f2dc84ffe)
+
+To set a position of a receiver, move the mouse pointer to the desired coordinate and press (first click) any mouse button. A big black point is plotted in this coordinate.
+To determine the radial distance (receiver range), move the mouse pointer to the desired coordinate and press (second click) any mouse button. A blue circle line is drawn in this coordinate
+Repeat the procedure above for each receiver used by the location system.
